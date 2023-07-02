@@ -1,0 +1,12 @@
+Resumen del lenguaje en español
+
+https://learnxinyminutes.com/docs/es-es/python-es/
+
+Tutorial de  Python
+
+https://www.w3schools.com/python/default.asp
+
+
+Python para principiantes (en ingles)
+
+https://pythonistaplanet.com/python-basics/
