@@ -2,7 +2,7 @@
 
 En este repositorio está alojado el Proyecto Integrador que corresponde al Modulo Programación Inicial - TSDWAD - COHOERTE 2023 (ISPC).
 
-# Integrantes
+# Integrantes:
 
 - Gonzalez Martinez Roni Duncan [@dunca2022 - roniduncang@gmail.com]
   linkedin: https://www.linkedin.com/in/roni-duncan-gonzale-martinez-41aa3425a/
